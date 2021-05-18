@@ -14,7 +14,7 @@ import (
 )
 
 const (
-	namespace           = "github.com/ihippik/krakend-mw/relyingparty"
+	namespace           = "github.com/jordelca/krakend-mw/relyingparty"
 	HeaderAuthorization = "Authorization"
 	HeaderUserID        = "User-Id"
 	TokenType           = "Bearer"
