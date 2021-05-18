@@ -1,4 +1,4 @@
-module github.com/ihippik/krakend-mw
+module github.com/jordelca/krakend-mw
 
 go 1.13
 
