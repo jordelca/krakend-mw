@@ -16,7 +16,7 @@ type epConfig struct {
 
 // rpNamespace is the key for getting config from extraConfig global section.
 // Use underscores instead of dots.
-const rpNamespace = "github_com/ihippik/krakend-mw/relyingparty"
+const rpNamespace = "github_com/jordelca/krakend-mw/relyingparty"
 
 // rpZeroCfg is the zero value for the rpConfig struct.
 var rpZeroCfg = rpConfig{}
